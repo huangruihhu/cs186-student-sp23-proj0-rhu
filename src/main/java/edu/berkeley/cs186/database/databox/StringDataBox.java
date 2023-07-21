@@ -56,6 +56,7 @@ public class StringDataBox extends DataBox {
     @Override
     public String toString() {
         return s;
+        //return "Fix me";
     }
 
     @Override
